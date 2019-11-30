@@ -15,3 +15,5 @@ use <b>BTM.ipynb</b> to modeling using Biterm Topic Model.
 <b>plot.ipynb</b> is also included if plot function is needed.
 
 <b>data</b> file containing example files.
+
+PTM and GSDMM can be modeled via the STTM package, https://github.com/qiang2100/STTM#sttm-a-library-of-short-text-topic-modeling
